@@ -2,622 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a811968-4945-4fec-a848-2ea9fd862eab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Banking.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/bin/autospec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/bin/htmldiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/bin/ldiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/bin/rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/cache/diff-lcs-1.1.3.gem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/cache/rake-0.9.2.gem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/cache/rspec-2.6.0.gem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/cache/rspec-core-2.6.4.gem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/cache/rspec-expectations-2.6.0.gem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/cache/rspec-mocks-2.6.0.gem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/.gemtest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/bin/htmldiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/bin/ldiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/.gemtest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/CHANGES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/MIT-LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/RRR" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/TODO" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/example/Rakefile1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/example/Rakefile2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/rake.1.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/.document" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/.document" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/Changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/Guardfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/bin/autospec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/bin/rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/.nav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/Autotest.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/Upgrade.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/script/FullBuildRakeFile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/script/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/script/full_build" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/.document" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/Guardfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/.nav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/Changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/Upgrade.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/specs.watchr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/.autotest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/.document" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/Guardfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/.nav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/Changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/Upgrade.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/message_expectations/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/message_expectations/block_local_expectations.feature.pending" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/method_stubs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/specs.watchr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specs/product_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/History.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/License.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/Manifest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/README.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/diff-lcs.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/docs/COPYING.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/docs/artistic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff-lcs.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs/array.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs/block.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs/callbacks.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs/change.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs/htmldiff.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs/hunk.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs/ldiff.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/lib/diff/lcs/string.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/spec/diff_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/spec/lcs_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/spec/patch_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/spec/sdiff_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/spec/traverse_balanced_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/diff-lcs-1.1.3/spec/traverse_sequences_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/README.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/command_line_usage.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/example/a.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/example/b.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/example/main.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/glossary.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/jamis.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/proto_rake.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/rakefile.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/rational.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.4.14.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.4.15.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.5.0.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.5.3.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.5.4.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.6.0.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.7.0.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.7.1.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.7.2.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.7.3.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.8.0.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.8.2.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.8.3.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.8.4.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.8.5.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.8.6.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.8.7.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.9.0.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.9.1.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/doc/release_notes/rake-0.9.2.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/install.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/alt_system.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/classic_namespace.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/clean.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/cloneable.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/contrib/compositepublisher.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/contrib/ftptools.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/contrib/publisher.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/contrib/rubyforgepublisher.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/contrib/sshpublisher.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/contrib/sys.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/default_loader.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/dsl_definition.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/early_time.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/ext/core.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/ext/module.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/ext/string.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/ext/time.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/file_creation_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/file_list.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/file_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/file_utils.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/file_utils_ext.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/gempackagetask.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/invocation_chain.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/invocation_exception_mixin.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/loaders/makefile.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/multi_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/name_space.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/packagetask.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/pathmap.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/pseudo_status.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/rake_module.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/rake_test_loader.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/rdoctask.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/ruby182_test_unit_fix.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/rule_recursion_overflow_error.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/runtest.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/task_argument_error.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/task_arguments.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/task_manager.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/tasklib.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/testtask.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/lib/rake/win32.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/check_expansion.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/check_no_expansion.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/access/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/chains/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/comments/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/default/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/deprecated_import/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/dryrun/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/extra/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/file_creation_task/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/imports/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/imports/deps.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/multidesc/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/namespace/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/rakelib/test1.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/rbext/rakefile.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/sample.mf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/statusreturn/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/unittest/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/data/verbose/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/file_creation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/in_environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/reqfile.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/reqfile2.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/shellcommand.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_application_options.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_clean.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_definitions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_directory_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_dsl.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_early_time.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_extension.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_file_creation_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_file_list.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_file_list_path_map.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_file_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_file_utils.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_ftp_file.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_functional.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_invocation_chain.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_makefile_loader.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_multi_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_name_space.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_package_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_path_map.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_path_map_explode.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_path_map_partial.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_pseudo_status.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_rdoc_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_require.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_rules.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_task_argument_parsing.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_task_arguments.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_task_lib.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_task_manager.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_task_manager_argument_resolution.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_task_with_arguments.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_test_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_top_level_functions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_rake_win32.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rake-0.9.2/test/test_sys.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/lib/rspec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/lib/rspec/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-2.6.0/rspec.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/cucumber.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/configure.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/example_name_option.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/exit_status.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/format_option.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/line_number_appended_to_path.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/line_number_option.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/rake_task.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/command_line/tag.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/configuration/alias_example_to.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/configuration/custom_settings.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/configuration/fail_fast.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/configuration/read_options_from_file.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/example_groups/basic_structure.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/example_groups/shared_context.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/example_groups/shared_example_group.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/expectation_framework_integration/configure_expectation_framework.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/filtering/exclusion_filters.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/filtering/if_and_unless.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/filtering/inclusion_filters.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/filtering/run_all_when_everything_filtered.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/formatters/custom_formatter.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/formatters/text_formatter.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/helper_methods/arbitrary_methods.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/helper_methods/let.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/helper_methods/modules.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/hooks/around_hooks.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/hooks/before_and_after_hooks.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/hooks/filtering.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/metadata/current_example.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/metadata/described_class.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/metadata/user_defined.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/mock_framework_integration/use_any_framework.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/mock_framework_integration/use_flexmock.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/mock_framework_integration/use_mocha.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/mock_framework_integration/use_rr.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/mock_framework_integration/use_rspec.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/pending/pending_examples.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/spec_files/arbitrary_file_suffix.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/step_definitions/additional_cli_steps.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/subject/attribute_of_subject.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/subject/explicit_subject.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/subject/implicit_receiver.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/subject/implicit_subject.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/features/support/env.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/autotest/discover.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/autotest/rspec2.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/autorun.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/backward_compatibility.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/command_line.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/command_line_configuration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/configuration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/configuration_options.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/deprecation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/drb_command_line.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/dsl.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/errors.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/example.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/example_group.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/expecting/with_rspec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/expecting/with_stdlib.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/extensions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/extensions/instance_eval_with_args.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/extensions/kernel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/extensions/module_eval_with_args.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/formatters/base_formatter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/formatters/base_text_formatter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/formatters/documentation_formatter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/formatters/helpers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/formatters/html_formatter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/formatters/progress_formatter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/formatters/snippet_extractor.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/formatters/text_mate_formatter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/hooks.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/let.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/load_path.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/metadata.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/metadata_hash_builder.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/mocking/with_absolutely_nothing.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/mocking/with_flexmock.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/mocking/with_mocha.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/mocking/with_rr.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/mocking/with_rspec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/option_parser.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/pending.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/rake_task.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/reporter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/ruby_project.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/runner.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/shared_context.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/shared_example_group.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/subject.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/core/world.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/monkey.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/lib/rspec/monkey/spork/test_framework/rspec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/rspec-core.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/script/cucumber" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/script/spec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/autotest/discover_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/autotest/failed_results_re_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/autotest/rspec_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/command_line_configuration_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/command_line_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/command_line_spec_output.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/configuration_options_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/configuration_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/deprecations_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/drb_command_line_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/example_group_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/example_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/base_formatter_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/base_text_formatter_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/documentation_formatter_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/helpers_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/html_formatted-1.8.6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/html_formatted-1.8.7-jruby.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/html_formatted-1.8.7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/html_formatted-1.9.1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/html_formatted-1.9.2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/html_formatter_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/progress_formatter_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/snippet_extractor_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/text_mate_formatted-1.8.6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/text_mate_formatted-1.8.7-jruby.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/text_mate_formatted-1.8.7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/text_mate_formatted-1.9.1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/text_mate_formatted-1.9.2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/formatters/text_mate_formatter_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/hooks_filtering_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/hooks_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/kernel_extensions_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/let_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/metadata_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/option_parser_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/pending_example_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/rake_task_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/reporter_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/resources/a_bar.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/resources/a_foo.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/resources/a_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/resources/custom_example_group_runner.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/resources/formatter_specs.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/resources/utf8_encoded.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/rspec_matchers_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/ruby_project_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/runner_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/shared_context_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/shared_example_group_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/subject_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core/world_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/rspec/core_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/support/matchers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/support/shared_example_groups.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-core-2.6.4/spec/support/spec_files.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/cucumber.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/be.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/be_within.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/cover.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/equality.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/exist.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/expect_change.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/expect_error.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/have.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/include.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/match.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/operators.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/predicates.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/respond_to.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/satisfy.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/throw_symbol.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/built_in_matchers/types.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/custom_matchers/access_running_example.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/custom_matchers/define_diffable_matcher.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/custom_matchers/define_matcher.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/custom_matchers/define_matcher_outside_rspec.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/custom_matchers/define_matcher_with_fluent_interface.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/customized_message.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/diffing.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/implicit_docstrings.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/step_definitions/additional_cli_steps.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/support/env.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/features/test_frameworks/test_unit.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec-expectations.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/backward_compatibility.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/deprecation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/differ.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/errors.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/extensions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/extensions/array.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/extensions/kernel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/fail_with.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/handler.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/expectations/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/be.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/be_close.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/be_instance_of.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/be_kind_of.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/be_within.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/block_aliases.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/change.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/compatibility.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/cover.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/dsl.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/eq.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/eql.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/equal.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/errors.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/exist.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/extensions/instance_exec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/generated_descriptions.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/has.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/have.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/include.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/match.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/match_array.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/matcher.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/method_missing.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/operator_matcher.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/pretty.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/raise_error.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/respond_to.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/satisfy.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/lib/rspec/matchers/throw_symbol.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/rspec-expectations.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/expectations/differ_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/expectations/extensions/kernel_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/expectations/fail_with_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/expectations/handler_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/be_close_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/be_instance_of_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/be_kind_of_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/be_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/be_within_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/change_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/compatibility_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/cover_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/description_generation_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/dsl_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/eq_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/eql_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/equal_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/exist_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/has_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/have_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/include_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/match_array_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/match_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/matcher_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/matchers_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/method_missing_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/operator_matcher_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/raise_error_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/respond_to_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/satisfy_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/rspec/matchers/throw_symbol_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/support/classes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/support/matchers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-expectations-2.6.0/spec/support/ruby_version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/autotest/discover.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/cucumber.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/message_expectations/any_instance.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/message_expectations/expect_message.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/message_expectations/warn_when_expectation_is_set_on_nil.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/method_stubs/any_instance.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/method_stubs/as_null_object.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/method_stubs/simple_return_value.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/method_stubs/stub_chain.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/method_stubs/stub_implementation.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/method_stubs/to_ary.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/outside_rspec/configuration.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/outside_rspec/standalone.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/step_definitions/additional_cli_steps.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/features/support/env.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/any_instance.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/argument_expectation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/argument_matchers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/error_generator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/errors.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/extensions/instance_exec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/extensions/marshal.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/extensions/psych.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/framework.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/message_expectation.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/method_double.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/methods.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/mock.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/order_group.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/proxy.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/serialization.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/space.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/spec_methods.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/standalone.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/rspec/mocks/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/lib/spec/mocks.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/rspec-mocks.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/and_yield_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/any_instance_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/any_number_of_times_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/argument_expectation_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/at_least_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/at_most_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/block_return_value_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_10260_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_10263_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_11545_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_496_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_600_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_7611_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_8165_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_830_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/bug_report_957_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/double_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/failing_argument_matchers_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/hash_including_matcher_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/hash_not_including_matcher_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/mock_ordering_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/mock_space_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/mock_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/multiple_return_value_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/nil_expectation_warning_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/null_object_mock_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/once_counts_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/options_hash_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/partial_mock_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/partial_mock_using_mocks_directly_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/passing_argument_matchers_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/precise_counts_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/record_messages_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/serialization_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/stash_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/stub_chain_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/stub_implementation_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/stub_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/stubbed_message_expectations_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/to_ary_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks/twice_counts_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/rspec/mocks_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/gems/rspec-mocks-2.6.0/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/specifications/diff-lcs-1.1.3.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/specifications/rake-0.9.2.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/specifications/rspec-2.6.0.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/specifications/rspec-core-2.6.4.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/specifications/rspec-expectations-2.6.0.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/1.8/specifications/rspec-mocks-2.6.0.gemspec" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/account.rb" afterPath="$PROJECT_DIR$/lib/account.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/account_spec.rb" afterPath="$PROJECT_DIR$/spec/account_spec.rb" />
     </list>
     <ignored path="Banking.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -652,7 +37,7 @@
       <file leaf-file-name="account.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/account.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="38" selection-start="48" selection-end="52" vertical-scroll-proportion="0.027726432">
+            <state line="3" column="6" selection-start="83" selection-end="83" vertical-scroll-proportion="0.083179295">
               <folding />
             </state>
           </provider>
@@ -661,7 +46,7 @@
       <file leaf-file-name="account_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/account_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="42" selection-start="297" selection-end="313" vertical-scroll-proportion="0.0">
+            <state line="12" column="7" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -784,6 +169,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/RubymineProjects/Project1" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -1002,7 +388,7 @@
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6709753" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32902467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32902467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1063,16 +449,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/RubymineProjects/Project1/dvd_customers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/account_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="297" selection-end="313" vertical-scroll-proportion="0.0">
+        <state line="12" column="7" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RubymineProjects/Project1/dvd_collections.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RubymineProjects/Project1/dvd_information.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="289" selection-end="301" vertical-scroll-proportion="0.16635859">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/account.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="38" selection-start="48" selection-end="52" vertical-scroll-proportion="0.027726432">
+        <state line="3" column="6" selection-start="83" selection-end="83" vertical-scroll-proportion="0.083179295">
           <folding />
         </state>
       </provider>
